@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-issue-example",
+  "version": "1.0.0",
+  "description": "An example of issue with Puppeteer",
+  "author": "Serhii Muryhin",
+  "license": "NO_LICENSE",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
